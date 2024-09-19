@@ -52,10 +52,6 @@ The last step is to build using electron-builder [(documentation)](https://www.e
 
 Please be aware that this app is only tested on windows, linux and macOS. If you decide to build for another platform/archtype it may or may not work. Builds other than those available in the releases come with absolutely no support.
 
-## Planned features
-- Select individual audio and video codecs (advanced mode)
-- List all audio qualities
-- Support for downloading livestreams
 
 Feel free to [request a new feature](https://github.com/StefanLobbenmeier/youtube-dl-gui/issues).
 
